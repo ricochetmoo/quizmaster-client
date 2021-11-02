@@ -1,0 +1,28 @@
+.header
+{
+	margin-top: 15px;
+}
+
+.header > h1
+{
+	display: inline-block;
+}
+
+.header > a
+{
+	vertical-align: middle;
+	float: right;
+	margin-left: 5px;
+}
+
+.questionNumber
+{
+	color: rgb(30, 30, 30);
+	text-transform: uppercase;
+	letter-spacing: 2pt;
+}
+
+#answer, #fact
+{
+	font-weight: 400;
+}

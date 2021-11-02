@@ -1,0 +1,20 @@
+body
+{
+	background: rgb(230, 230, 230);
+	display: flex;
+	align-items: center;
+	padding: 40px 0;
+}
+
+.login
+{
+	width: 100%;
+	max-width: 330px;
+	padding: 15px;
+	margin: auto;
+}
+
+.login > form > *
+{
+	margin-bottom: 10px;
+}
