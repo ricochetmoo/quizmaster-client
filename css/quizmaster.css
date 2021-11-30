@@ -8,7 +8,7 @@
 	display: inline-block;
 }
 
-.header > a
+.header > a, .header > button
 {
 	vertical-align: middle;
 	float: right;
@@ -25,4 +25,10 @@
 #answer, #fact
 {
 	font-weight: 400;
+}
+
+#newQuestion-question
+{
+	font-size: calc(1.275rem + .3vw);
+	font-weight: 500;	
 }
